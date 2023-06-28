@@ -1,0 +1,3 @@
+python-dotenv
+aiogram #for working with telegram api
+openai
